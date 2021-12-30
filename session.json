@@ -1,1 +1,6 @@
-SESSION LU NGAB
+{       "clientID": "PYb/5lcqcFYldHlOuEPHTw==",
+	"serverToken": "1@SYn/0YRRP3H/XyLjCxw+F+iuqkmanuKssANO/c6tAfuSTvnlm6Jx8CQb/HMyTAaOKmbqzMybDVZtdQ==
+	"clientToken": "vpwh0Zth+lKAMHt8c5Qnku+8G0aun/dhb8cKYJjFM6c=",
+	"encKey": "wgOQEOgAzzJtOkJr7QSRpEq0GjMO3aRRZSi1JjCMF2Y=",
+	"macKey": "we+Er6WynzRbKGOmu45SX7a5NtifLMcI9lcaw5xthEQ="
+}
